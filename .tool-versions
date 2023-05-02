@@ -11,6 +11,6 @@ checkov 2.3.213
 sops 3.7.2
 adr-tools 2.2.0
 awscli 2.11.15
-kubectl 1.27.1
+kubectl 1.27.0
 flux2 0.41.1
 helm 3.11.2
