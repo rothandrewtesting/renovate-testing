@@ -7,7 +7,7 @@ terraform 1.4.5
 terraform-docs 0.15.0
 tflint 0.46.0
 tfsec 1.28.0
-checkov 2.3.213
+checkov 2.3.214
 sops 3.7.2
 adr-tools 2.2.0
 awscli 2.11.15
